@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "product_id": "P001",
+      "product_name": "Wireless Mouse",
+      "category": "Electronics",
+      "supplier": "OfficePlus",
+      "cost_price": 258.1,
+      "in_stock": true
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "supplier": "GlobalTech",
+      "cost_price": 230.69,
+      "in_stock": false
+    },
+    {
+      "product_id": "P003",
+      "product_name": "USB-C Hub",
+      "category": "Electronics",
+      "supplier": "GlobalTech",
+      "cost_price": 285.56,
+      "in_stock": false
+    },
+    {
+      "product_id": "P004",
+      "product_name": "Office Chair",
+      "category": "Furniture",
+      "supplier": "GlobalTech",
+      "cost_price": 46.86,
+      "in_stock": true
+    },
+    {
+      "product_id": "P005",
+      "product_name": "Standing Desk",
+      "category": "Furniture",
+      "supplier": "OfficePlus",
+      "cost_price": 148.86,
+      "in_stock": true
+    },
+    {
+      "product_id": "P006",
+      "product_name": "Notebook Set",
+      "category": "Stationery",
+      "supplier": "GlobalTech",
+      "cost_price": 21.03,
+      "in_stock": false
+    },
+    {
+      "product_id": "P007",
+      "product_name": "Gel Pen Pack",
+      "category": "Stationery",
+      "supplier": "GlobalTech",
+      "cost_price": 34.25,
+      "in_stock": true
+    },
+    {
+      "product_id": "P008",
+      "product_name": "Desk Lamp",
+      "category": "Furniture",
+      "supplier": "GlobalTech",
+      "cost_price": 136.43,
+      "in_stock": true
+    },
+    {
+      "product_id": "P009",
+      "product_name": "Webcam HD",
+      "category": "Electronics",
+      "supplier": "OfficePlus",
+      "cost_price": 224.12,
+      "in_stock": false
+    },
+    {
+      "product_id": "P010",
+      "product_name": "Monitor Stand",
+      "category": "Furniture",
+      "supplier": "NileSupply",
+      "cost_price": 233.05,
+      "in_stock": true
+    }
+  ]
+}
