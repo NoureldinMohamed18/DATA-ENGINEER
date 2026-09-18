@@ -1,0 +1,87 @@
+﻿employee_id,age,salary,email,signup_date,department,flag_reasons
+E0375,59.0,-500.0,user375@example.com,2024-04-13,Engineering,قيمة سالبة في salary
+E0200,21.0,-500.0,user200@example.com,2024-06-13,Finance,قيمة سالبة في salary
+E0380,38.0,-500.0,user380@example.com,2025-01-31,Marketing,قيمة سالبة في salary
+E0480,,15562.5,user480@example.com,2024-10-06,Sales,قيمة فارغة
+E0419,24.0,6765.06,user419@example.com,2024-06-17,Engineering,صف مكرر
+E0434,33.0,7356.89,user434@example.com,2025-04-12,,قيمة فارغة
+E0364,37.0,-500.0,user364@example.com,2024-11-10,Sales,قيمة سالبة في salary
+E0145,30.0,16130.22,user145@example.com,2024-12-31,,قيمة فارغة
+E0287,55.0,11811.71,user287@example.com,2024-01-27,,قيمة فارغة
+E0499,,24929.18,user499@example.com,2024-02-15,HR,قيمة فارغة
+E0166,45.0,5635.82,user166@example.com,2024-09-09,Sales,صف مكرر
+E0290,27.0,22445.51,user290@example.com,2024-10-24,Finance,صف مكرر
+E0175,49.0,21677.44,user175@example.com,2025-01-26,Finance,صف مكرر
+E0317,64.0,-500.0,user317@example.com,2024-07-29,HR,قيمة سالبة في salary
+E0166,45.0,5635.82,user166@example.com,2024-09-09,Sales,صف مكرر
+E0071,,8520.3,user71@example.com,2025-01-21,Engineering,قيمة فارغة
+E0465,,4473.86,user465@example.com,2024-05-31,Sales,قيمة فارغة
+E0399,35.0,9720.65,user399@example.com,2024-09-02,,قيمة فارغة
+E0419,24.0,6765.06,user419@example.com,2024-06-17,Engineering,صف مكرر
+E0449,40.0,20645.22,user449@example.com,2024-06-22,,قيمة فارغة
+E0058,29.0,11975.03,user58@example.com,2024-07-03,,قيمة فارغة
+E0025,,4843.21,user25@example.com,2025-01-19,Finance,قيمة فارغة
+E0159,,18915.98,user159@example.com,2025-04-09,Sales,قيمة فارغة
+E0077,,8709.42,user77@example.com,2024-01-14,Finance,قيمة فارغة
+E0175,49.0,21677.44,user175@example.com,2025-01-26,Finance,صف مكرر
+E0284,54.0,12734.05,user284_example.com,2025-02-15,Finance,صف مكرر
+E0020,20.0,-500.0,user20@example.com,2024-08-31,Marketing,قيمة سالبة في salary
+E0411,49.0,23618.76,user411@example.com,2024-04-16,,قيمة فارغة
+E0489,56.0,21049.2,user489@example.com,2024-01-19,Engineering,صف مكرر
+E0428,57.0,-500.0,user428@example.com,2024-10-13,Sales,قيمة سالبة في salary
+E0307,63.0,14780.07,user307@example.com,2024-08-30,Finance,صف مكرر
+E0350,37.0,10345.14,user350@example.com,2025-05-05,Finance,صف مكرر
+E0264,32.0,4657.9,user264@example.com,2024-10-08,,قيمة فارغة; صف مكرر
+E0002,57.0,20445.49,user2@example.com,2024-02-18,HR,صف مكرر
+E0062,,24792.74,user62@example.com,2025-04-07,Finance,قيمة فارغة
+E0110,,6943.38,user110@example.com,2024-04-08,HR,قيمة فارغة
+E0112,27.0,-500.0,user112@example.com,2024-07-16,HR,قيمة سالبة في salary
+E0214,,15319.33,user214@example.com,2024-08-08,HR,قيمة فارغة
+E0279,36.0,-500.0,user279@example.com,2025-04-28,Sales,قيمة سالبة في salary
+E0350,37.0,10345.14,user350@example.com,2025-05-05,Finance,صف مكرر
+E0097,37.0,16788.63,user97@example.com,2025-04-27,Finance,صف مكرر
+E0498,,16643.15,user498@example.com,2024-06-01,Engineering,قيمة فارغة
+E0273,,22767.4,user273@example.com,2024-05-03,Marketing,قيمة فارغة
+E0439,,17971.92,user439@example.com,2025-03-27,Sales,قيمة فارغة
+E0061,45.0,19835.04,user61@example.com,2024-07-26,,قيمة فارغة
+E0310,59.0,-500.0,user310@example.com,2024-09-13,Marketing,قيمة سالبة في salary
+E0406,37.0,5504.97,user406@example.com,2024-03-12,HR,صف مكرر
+E0218,35.0,13049.44,user218@example.com,2024-09-16,Sales,صف مكرر
+E0339,,-500.0,user339@example.com,2024-04-23,Finance,قيمة فارغة; قيمة سالبة في salary
+E0457,,-500.0,user457@example.com,2024-08-16,HR,قيمة فارغة; قيمة سالبة في salary
+E0113,,17525.05,user113@example.com,2024-11-07,Finance,قيمة فارغة
+E0489,56.0,21049.2,user489@example.com,2024-01-19,Engineering,صف مكرر
+E0146,49.0,-500.0,user146@example.com,2024-09-14,HR,قيمة سالبة في salary
+E0010,30.0,24676.19,user10@example.com,2025-01-28,,قيمة فارغة
+E0276,32.0,-500.0,user276@example.com,2024-09-17,Marketing,قيمة سالبة في salary
+E0284,54.0,12734.05,user284_example.com,2025-02-15,Finance,صف مكرر
+E0302,26.0,19479.98,user302@example.com,2024-12-08,,قيمة فارغة
+E0385,,22543.62,user385@example.com,2024-04-19,Sales,قيمة فارغة
+E0044,,12043.84,user44@example.com,2024-02-28,Finance,قيمة فارغة
+E0101,51.0,5884.56,user101@example.com,2025-01-14,,قيمة فارغة
+E0171,,10511.66,user171@example.com,2025-04-04,Marketing,قيمة فارغة
+E0053,52.0,-500.0,user53@example.com,2024-03-05,Engineering,قيمة سالبة في salary
+E0139,,4623.87,user139@example.com,2025-04-09,Sales,قيمة فارغة; صف مكرر
+E0047,,5389.5,user47@example.com,2024-08-02,Finance,قيمة فارغة
+E0406,37.0,5504.97,user406@example.com,2024-03-12,HR,صف مكرر
+E0097,37.0,16788.63,user97@example.com,2025-04-27,Finance,صف مكرر
+E0057,43.0,-500.0,user57@example.com,2024-09-20,Marketing,قيمة سالبة في salary
+E0281,26.0,23476.11,user281@example.com,2024-03-13,Marketing,صف مكرر
+E0307,63.0,14780.07,user307@example.com,2024-08-30,Finance,صف مكرر
+E0303,34.0,-500.0,user303@example.com,2024-11-23,HR,قيمة سالبة في salary
+E0008,22.0,-500.0,user8@example.com,2024-04-11,Marketing,قيمة سالبة في salary
+E0264,32.0,4657.9,user264@example.com,2024-10-08,,قيمة فارغة; صف مكرر
+E0288,32.0,-500.0,user288@example.com,2025-05-07,HR,قيمة سالبة في salary
+E0281,26.0,23476.11,user281@example.com,2024-03-13,Marketing,صف مكرر
+E0002,57.0,20445.49,user2@example.com,2024-02-18,HR,صف مكرر
+E0290,27.0,22445.51,user290@example.com,2024-10-24,Finance,صف مكرر
+E0196,43.0,-500.0,user196@example.com,2024-07-28,Marketing,قيمة سالبة في salary
+E0351,,19683.58,user351@example.com,2024-01-30,Marketing,قيمة فارغة
+E0223,,22723.41,user223@example.com,2024-02-15,Marketing,قيمة فارغة
+E0363,22.0,6710.06,user363@example.com,2024-10-01,,قيمة فارغة
+E0349,,20873.02,user349@example.com,2024-10-22,Finance,قيمة فارغة
+E0327,,17872.18,user327@example.com,2024-02-20,Finance,قيمة فارغة
+E0239,,17850.87,user239@example.com,2024-12-31,Marketing,قيمة فارغة
+E0139,,4623.87,user139@example.com,2025-04-09,Sales,قيمة فارغة; صف مكرر
+E0218,35.0,13049.44,user218@example.com,2024-09-16,Sales,صف مكرر
+E0227,,14342.42,user227@example.com,2024-02-19,Sales,قيمة فارغة

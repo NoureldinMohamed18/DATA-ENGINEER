@@ -1,0 +1,97 @@
+{
+  "file_analyzed": "sample_employees.csv",
+  "analyzed_at": "2026-08-28T21:32:03",
+  "total_rows": 515,
+  "total_columns": 6,
+  "overall_status": "يحتاج مراجعة عاجلة",
+  "total_issues_found": 20,
+  "checks": [
+    {
+      "rule_name": "Missing Values Check",
+      "severity": "medium",
+      "issues_found": 2,
+      "details": [
+        {
+          "column": "age",
+          "missing_count": 28,
+          "missing_pct": 5.44
+        },
+        {
+          "column": "department",
+          "missing_count": 14,
+          "missing_pct": 2.72
+        }
+      ]
+    },
+    {
+      "rule_name": "Duplicate Rows Check",
+      "severity": "medium",
+      "issues_found": 15,
+      "details": {
+        "duplicate_row_count": 15,
+        "duplicate_pct": 2.91
+      }
+    },
+    {
+      "rule_name": "Outlier Detection (IQR Method)",
+      "severity": "medium",
+      "issues_found": 1,
+      "details": [
+        {
+          "column": "age",
+          "outlier_count": 8,
+          "valid_range": "[-5.5, 86.5]",
+          "outlier_examples": [
+            150.0,
+            150.0,
+            150.0,
+            150.0,
+            150.0
+          ]
+        }
+      ]
+    },
+    {
+      "rule_name": "Data Type Consistency Check",
+      "severity": "ok",
+      "issues_found": 0,
+      "details": []
+    },
+    {
+      "rule_name": "Negative Values Check",
+      "severity": "high",
+      "issues_found": 1,
+      "details": [
+        {
+          "column": "salary",
+          "negative_count": 20,
+          "examples": [
+            -500.0,
+            -500.0,
+            -500.0,
+            -500.0,
+            -500.0
+          ]
+        }
+      ]
+    },
+    {
+      "rule_name": "Email Format Check",
+      "severity": "medium",
+      "issues_found": 1,
+      "details": [
+        {
+          "column": "email",
+          "invalid_count": 15,
+          "examples": [
+            "user31_example.com",
+            "user87_example.com",
+            "user193_example.com",
+            "user471_example.com",
+            "user49_example.com"
+          ]
+        }
+      ]
+    }
+  ]
+}
