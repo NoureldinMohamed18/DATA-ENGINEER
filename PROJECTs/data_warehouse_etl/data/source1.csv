@@ -1,0 +1,16 @@
+transaction_id,product_name,category,customer_name,city,quantity,unit_price,transaction_date
+T001,Laptop,Electronics,Ahmed Ali,Cairo,1,1200.50,2024-01-15
+T002,Mouse,Electronics,Fatima Hassan,Alexandria,2,25.00,2024-01-16
+T003,Keyboard,Electronics,Omar Khaled,Giza,1,45.99,2024-01-17
+T004,Notebook,Stationery,Sara Mahmoud,Cairo,10,5.50,2024-01-18
+T005,Desk Chair,Furniture,Mohamed Adel,Alexandria,1,150.00,2024-01-19
+T006,Monitor,Electronics,Layla Youssef,Giza,2,300.00,2024-01-20
+T007,Pen Set,Stationery,Karim Samir,Cairo,5,12.00,2024-01-21
+T008,Printer,Electronics,Nour Ahmed,Alexandria,1,200.00,2024-01-22
+T009,Desk,Furniture,Hana Ibrahim,Giza,1,250.00,2024-01-23
+T010,USB Cable,Electronics,Youssef Omar,Cairo,3,10.00,2024-01-24
+T011,Tablet,Electronics,Mariam Said,Alexandria,1,500.00,2024-02-01
+T012,Headphones,Electronics,Tarek Hossam,Giza,2,80.00,2024-02-02
+T013,Paper Ream,Stationery,Dina Kareem,Cairo,20,8.00,2024-02-03
+T014,Bookshelf,Furniture,Amr Fathy,Alexandria,1,120.00,2024-02-04
+T015,Webcam,Electronics,Salma Nasser,Giza,1,60.00,2024-02-05
