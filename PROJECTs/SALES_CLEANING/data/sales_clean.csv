@@ -1,0 +1,26 @@
+Order_ID,Product,Category,Price,Quantity,Order_Date,Customer_Name,City,Payment_Method,Discount,Year,Month,Month_Name,Total,Net_Amount
+1001,Laptop,Electronics,1200.5,1,2024-01-15,Ahmed Ali,Cairo,Credit Card,0.1,2024,1,January,1200.5,1080.45
+1002,Mouse,Electronics,25.0,2,2024-01-16,Fatima Hassan,Alexandria,Cash,0.0,2024,1,January,50.0,50.0
+1003,Keyboard,Electronics,45.99,1,2024-01-17,Omar Khaled,Giza,Credit Card,0.05,2024,1,January,45.99,43.6905
+1004,Notebook,Stationery,5.5,10,2024-01-18,Sara Mahmoud,Cairo,Cash,0.0,2024,1,January,55.0,55.0
+1005,Desk Chair,Furniture,150.0,1,2024-01-19,Mohamed Adel,Alexandria,Credit Card,0.15,2024,1,January,150.0,127.5
+1006,Monitor,Electronics,300.0,2,2024-01-20,Layla Youssef,Giza,Cash,0.1,2024,1,January,600.0,540.0
+1007,Pen Set,Stationery,12.0,5,2024-01-21,Karim Samir,Cairo,Credit Card,0.0,2024,1,January,60.0,60.0
+1008,Printer,Electronics,200.0,1,2024-01-22,Nour Ahmed,Alexandria,Cash,0.05,2024,1,January,200.0,190.0
+1009,Desk,Furniture,250.0,1,2024-01-23,Hana Ibrahim,Giza,Credit Card,0.1,2024,1,January,250.0,225.0
+1010,Usb Cable,Electronics,10.0,3,2024-01-24,Youssef Omar,Cairo,Cash,0.0,2024,1,January,30.0,30.0
+1011,Tablet,Electronics,500.0,1,2024-02-01,Mariam Said,Alexandria,Credit Card,0.08,2024,2,February,500.0,460.0
+1012,Headphones,Electronics,80.0,2,2024-02-02,Tarek Hossam,Giza,Cash,0.0,2024,2,February,160.0,160.0
+1013,Paper Ream,Stationery,8.0,20,2024-02-03,Dina Kareem,Cairo,Credit Card,0.0,2024,2,February,160.0,160.0
+1014,Bookshelf,Furniture,120.0,1,2024-02-04,Amr Fathy,Alexandria,Cash,0.12,2024,2,February,120.0,105.6
+1015,Webcam,Electronics,60.0,1,2024-02-05,Salma Nasser,Giza,Credit Card,0.0,2024,2,February,60.0,60.0
+1016,Stapler,Stationery,15.0,2,2024-02-06,Hassan Ali,Cairo,Cash,0.0,2024,2,February,30.0,30.0
+1017,Lamp,Furniture,35.0,3,2024-02-07,Reem Khaled,Alexandria,Credit Card,0.05,2024,2,February,105.0,99.75
+1018,Ssd Drive,Electronics,100.0,2,2024-02-08,Walid Mahmoud,Giza,Cash,0.1,2024,2,February,200.0,180.0
+1019,Whiteboard,Stationery,45.0,1,2024-02-09,Nada Youssef,Cairo,Credit Card,0.0,2024,2,February,45.0,45.0
+1020,Sofa,Furniture,800.0,1,2024-02-10,Omar Hassan,Alexandria,Cash,0.2,2024,2,February,800.0,640.0
+1021,Laptop,Electronics,1200.5,1,2024-03-05,Ahmed Ali,Cairo,Credit Card,0.1,2024,3,March,1200.5,1080.45
+1022,Mouse,Electronics,25.0,5,2024-03-06,Fatima Hassan,Alexandria,Cash,0.0,2024,3,March,125.0,125.0
+1023,Keyboard,Electronics,45.99,2,2024-03-07,Omar Khaled,Giza,Credit Card,0.05,2024,3,March,91.98,87.381
+1024,Notebook,Stationery,5.5,15,2024-03-08,Sara Mahmoud,Cairo,Cash,0.0,2024,3,March,82.5,82.5
+1025,Desk Chair,Furniture,150.0,2,2024-03-09,Mohamed Adel,Alexandria,Credit Card,0.15,2024,3,March,300.0,255.0

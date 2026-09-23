@@ -1,0 +1,45 @@
+patient_id,name,age,gender,blood_pressure_systolic,heart_rate,diagnosis,admission_date,length_of_stay_days,age_group,bp_category,admission_year
+P001,Ahmed Mohamed,56,Male,93,64,Unknown,2024-01-01,6,Middle Aged,Normal,2024
+P002,Sara Ali,69,Female,143,101,Hypertension,2024-01-04,7,Senior,High,2024
+P003,Mohamed Hassan,46,Female,152,98,Asthma,2024-01-07,4,Middle Aged,High,2024
+P004,Fatma Ibrahim,32,Male,107,100,COVID-19,2024-01-10,7,Young Adult,Normal,2024
+P005,Ali Mahmoud,60,Female,179,87,Hypertension,2024-01-13,11,Senior,High,2024
+P006,Nour Ahmed,25,Male,133,66,Diabetes,2024-01-16,8,Young Adult,Elevated,2024
+P007,Omar Salem,78,Female,123,68,Hypertension,2024-01-19,11,Senior,Elevated,2024
+P008,Hana Youssef,38,Male,163,67,Diabetes,2024-01-22,1,Young Adult,High,2024
+P009,Karim Adel,56,Female,151,71,Unknown,2024-01-25,6,Middle Aged,High,2024
+P010,Layla Hassan,75,Female,103,93,COVID-19,2024-01-28,8,Senior,Normal,2024
+P011,Tarek Nasser,36,Male,137,92,Flu,2024-01-31,5,Young Adult,Elevated,2024
+P012,Dina Samir,40,Male,104,107,COVID-19,2024-02-03,4,Middle Aged,Normal,2024
+P013,Bassem Fawzy,28,Male,161,82,COVID-19,2024-02-06,2,Young Adult,High,2024
+P014,Rania Khalil,28,Male,167,83,Diabetes,2024-02-09,6,Young Adult,High,2024
+P015,Sherif Gaber,41,Male,176,96,COVID-19,2024-02-12,6,Middle Aged,High,2024
+P016,Mona Tawfik,70,Male,151,94,Asthma,2024-02-15,11,Senior,High,2024
+P017,Amr Sobhy,53,Male,129,103,COVID-19,2024-02-18,1,Middle Aged,Elevated,2024
+P018,Yara Magdy,57,Male,174,99,COVID-19,2024-02-21,9,Middle Aged,High,2024
+P019,Hossam Reda,41,Female,169,81,Hypertension,2024-02-24,12,Middle Aged,High,2024
+P020,Aya Mostafa,20,Female,171,86,Diabetes,2024-02-27,11,Young Adult,High,2024
+P021,Walid Hamdy,39,Male,142,94,Hypertension,2024-03-01,6,Young Adult,High,2024
+P022,Noha Saleh,70,Female,113,60,Asthma,2024-03-04,13,Senior,Normal,2024
+P023,Essam Fouad,19,Female,115,94,COVID-19,2024-03-07,3,Young Adult,Normal,2024
+P024,Mariam Nabil,41,Female,178,96,COVID-19,2024-03-10,4,Middle Aged,High,2024
+P025,Khaled Zaki,61,Female,149,106,Diabetes,2024-03-13,12,Senior,High,2024
+P026,Samira Lotfy,47,Male,130,73,Asthma,2024-03-16,11,Middle Aged,Elevated,2024
+P027,Tamer Wahby,55,Female,118,62,Asthma,2024-03-19,4,Middle Aged,Normal,2024
+P028,Ghada Aziz,19,Male,104,60,Hypertension,2024-03-22,3,Young Adult,Normal,2024
+P029,Adel Barakat,77,Female,134,64,Diabetes,2024-03-25,10,Senior,Elevated,2024
+P030,Reem Shehab,38,Female,154,85,Hypertension,2024-03-28,3,Young Adult,High,2024
+P031,Mahmoud Farouk,50,Female,178,73,Unknown,2024-03-31,3,Middle Aged,High,2024
+P032,Heba Mansour,29,Male,160,98,Hypertension,2024-04-03,4,Young Adult,High,2024
+P033,Wael Saber,75,Female,98,86,Asthma,2024-04-06,7,Senior,Normal,2024
+P034,Dalia Ramzy,39,Male,177,68,Flu,2024-04-09,4,Young Adult,High,2024
+P035,Fady Girgis,78,Female,90,74,Hypertension,2024-04-12,9,Senior,Normal,2024
+P036,Nadia Osman,61,Male,97,74,Unknown,2024-04-15,1,Senior,Normal,2024
+P037,Samir Younis,42,Female,177,85,Unknown,2024-04-18,8,Middle Aged,High,2024
+P038,Eman Rafat,66,Male,152,101,Hypertension,2024-04-21,7,Senior,High,2024
+P039,Hazem Atef,44,Male,100,72,Asthma,2024-04-24,2,Middle Aged,Normal,2024
+P040,Shereen Naguib,76,Female,170,91,Hypertension,2024-04-27,8,Senior,High,2024
+P041,Ashraf Helmy,59,Male,97,98,Hypertension,2024-04-30,1,Middle Aged,Normal,2024
+P042,Rasha Badawi,45,Female,124,108,Diabetes,2024-05-03,11,Middle Aged,Elevated,2024
+P043,Magdy Selim,77,Female,124,91,Flu,2024-05-06,12,Senior,Elevated,2024
+P044,Doha Anwar,33,Female,122,63,Asthma,2024-05-09,9,Young Adult,Elevated,2024

@@ -1,0 +1,241 @@
+﻿product_id,product_name,category,price,stock_status,scraped_at,rolling_avg_3,pct_change
+MP001,Laptop Pro 14,Electronics,835.03,In Stock,2026-07-29 21:32:00,835.03,
+MP001,Laptop Pro 14,Electronics,828.73,Out of Stock,2026-07-30 21:32:00,831.88,-0.75
+MP001,Laptop Pro 14,Electronics,832.1,Out of Stock,2026-07-31 21:32:00,831.95,0.41
+MP001,Laptop Pro 14,Electronics,829.24,Low Stock,2026-08-01 21:32:00,830.02,-0.34
+MP001,Laptop Pro 14,Electronics,801.46,In Stock,2026-08-02 21:32:00,820.93,-3.35
+MP001,Laptop Pro 14,Electronics,828.71,In Stock,2026-08-03 21:32:00,819.8,3.4
+MP001,Laptop Pro 14,Electronics,796.98,In Stock,2026-08-04 21:32:00,809.05,-3.83
+MP001,Laptop Pro 14,Electronics,813.43,In Stock,2026-08-05 21:32:00,813.04,2.06
+MP001,Laptop Pro 14,Electronics,816.24,Out of Stock,2026-08-06 21:32:00,808.88,0.35
+MP001,Laptop Pro 14,Electronics,790.99,In Stock,2026-08-07 21:32:00,806.89,-3.09
+MP001,Laptop Pro 14,Electronics,801.62,In Stock,2026-08-08 21:32:00,802.95,1.34
+MP001,Laptop Pro 14,Electronics,802.93,In Stock,2026-08-09 21:32:00,798.51,0.16
+MP001,Laptop Pro 14,Electronics,805.55,Out of Stock,2026-08-10 21:32:00,803.37,0.33
+MP001,Laptop Pro 14,Electronics,803.31,In Stock,2026-08-11 21:32:00,803.93,-0.28
+MP001,Laptop Pro 14,Electronics,830.66,Low Stock,2026-08-12 21:32:00,813.17,3.4
+MP001,Laptop Pro 14,Electronics,827.6,In Stock,2026-08-13 21:32:00,820.52,-0.37
+MP001,Laptop Pro 14,Electronics,797.06,In Stock,2026-08-14 21:32:00,818.44,-3.69
+MP001,Laptop Pro 14,Electronics,777.88,Low Stock,2026-08-15 21:32:00,800.85,-2.41
+MP001,Laptop Pro 14,Electronics,806.88,In Stock,2026-08-16 21:32:00,793.94,3.73
+MP001,Laptop Pro 14,Electronics,786.59,In Stock,2026-08-17 21:32:00,790.45,-2.51
+MP001,Laptop Pro 14,Electronics,810.77,Out of Stock,2026-08-18 21:32:00,801.41,3.07
+MP001,Laptop Pro 14,Electronics,776.16,In Stock,2026-08-19 21:32:00,791.17,-4.27
+MP001,Laptop Pro 14,Electronics,749.88,Low Stock,2026-08-20 21:32:00,778.94,-3.39
+MP001,Laptop Pro 14,Electronics,759.17,Out of Stock,2026-08-21 21:32:00,761.74,1.24
+MP001,Laptop Pro 14,Electronics,752.03,Out of Stock,2026-08-22 21:32:00,753.69,-0.94
+MP001,Laptop Pro 14,Electronics,720.73,In Stock,2026-08-23 21:32:00,743.98,-4.16
+MP001,Laptop Pro 14,Electronics,703.57,In Stock,2026-08-24 21:32:00,725.44,-2.38
+MP001,Laptop Pro 14,Electronics,834.45,In Stock,2026-08-25 21:32:00,752.92,18.6
+MP001,Laptop Pro 14,Electronics,821.32,In Stock,2026-08-26 21:32:00,786.45,-1.57
+MP001,Laptop Pro 14,Electronics,783.97,In Stock,2026-08-27 21:32:00,813.25,-4.55
+MP002,Wireless Earbuds,Electronics,64.32,In Stock,2026-07-29 21:32:00,64.32,
+MP002,Wireless Earbuds,Electronics,61.9,In Stock,2026-07-30 21:32:00,63.11,-3.76
+MP002,Wireless Earbuds,Electronics,60.71,In Stock,2026-07-31 21:32:00,62.31,-1.92
+MP002,Wireless Earbuds,Electronics,59.87,In Stock,2026-08-01 21:32:00,60.83,-1.38
+MP002,Wireless Earbuds,Electronics,57.79,Low Stock,2026-08-02 21:32:00,59.46,-3.47
+MP002,Wireless Earbuds,Electronics,57.64,In Stock,2026-08-03 21:32:00,58.43,-0.26
+MP002,Wireless Earbuds,Electronics,56.02,In Stock,2026-08-04 21:32:00,57.15,-2.81
+MP002,Wireless Earbuds,Electronics,57.04,Low Stock,2026-08-05 21:32:00,56.9,1.82
+MP002,Wireless Earbuds,Electronics,57.42,In Stock,2026-08-06 21:32:00,56.83,0.67
+MP002,Wireless Earbuds,Electronics,57.08,In Stock,2026-08-07 21:32:00,57.18,-0.59
+MP002,Wireless Earbuds,Electronics,57.66,Low Stock,2026-08-08 21:32:00,57.39,1.02
+MP002,Wireless Earbuds,Electronics,60.26,Out of Stock,2026-08-09 21:32:00,58.33,4.51
+MP002,Wireless Earbuds,Electronics,59.23,In Stock,2026-08-10 21:32:00,59.05,-1.71
+MP002,Wireless Earbuds,Electronics,60.37,In Stock,2026-08-11 21:32:00,59.95,1.92
+MP002,Wireless Earbuds,Electronics,62.84,In Stock,2026-08-12 21:32:00,60.81,4.09
+MP002,Wireless Earbuds,Electronics,64.25,In Stock,2026-08-13 21:32:00,62.49,2.24
+MP002,Wireless Earbuds,Electronics,66.17,In Stock,2026-08-14 21:32:00,64.42,2.99
+MP002,Wireless Earbuds,Electronics,68.38,In Stock,2026-08-15 21:32:00,66.27,3.34
+MP002,Wireless Earbuds,Electronics,69.12,In Stock,2026-08-16 21:32:00,67.89,1.08
+MP002,Wireless Earbuds,Electronics,65.96,In Stock,2026-08-17 21:32:00,67.82,-4.57
+MP002,Wireless Earbuds,Electronics,68.87,Out of Stock,2026-08-18 21:32:00,67.98,4.41
+MP002,Wireless Earbuds,Electronics,70.83,In Stock,2026-08-19 21:32:00,68.55,2.85
+MP002,Wireless Earbuds,Electronics,74.33,Low Stock,2026-08-20 21:32:00,71.34,4.94
+MP002,Wireless Earbuds,Electronics,77.75,In Stock,2026-08-21 21:32:00,74.3,4.6
+MP002,Wireless Earbuds,Electronics,81.01,Out of Stock,2026-08-22 21:32:00,77.7,4.19
+MP002,Wireless Earbuds,Electronics,77.5,In Stock,2026-08-23 21:32:00,78.75,-4.33
+MP002,Wireless Earbuds,Electronics,75.19,In Stock,2026-08-24 21:32:00,77.9,-2.98
+MP002,Wireless Earbuds,Electronics,75.3,In Stock,2026-08-25 21:32:00,76.0,0.15
+MP002,Wireless Earbuds,Electronics,74.58,In Stock,2026-08-26 21:32:00,75.02,-0.96
+MP002,Wireless Earbuds,Electronics,72.03,Low Stock,2026-08-27 21:32:00,73.97,-3.42
+MP003,Smart Watch,Electronics,172.3,Out of Stock,2026-07-29 21:32:00,172.3,
+MP003,Smart Watch,Electronics,174.55,Out of Stock,2026-07-30 21:32:00,173.42,1.31
+MP003,Smart Watch,Electronics,167.62,Out of Stock,2026-07-31 21:32:00,171.49,-3.97
+MP003,Smart Watch,Electronics,172.55,In Stock,2026-08-01 21:32:00,171.57,2.94
+MP003,Smart Watch,Electronics,171.2,In Stock,2026-08-02 21:32:00,170.46,-0.78
+MP003,Smart Watch,Electronics,163.68,In Stock,2026-08-03 21:32:00,169.14,-4.39
+MP003,Smart Watch,Electronics,157.61,In Stock,2026-08-04 21:32:00,164.16,-3.71
+MP003,Smart Watch,Electronics,164.82,In Stock,2026-08-05 21:32:00,162.04,4.57
+MP003,Smart Watch,Electronics,167.96,Out of Stock,2026-08-06 21:32:00,163.46,1.91
+MP003,Smart Watch,Electronics,165.27,In Stock,2026-08-07 21:32:00,166.02,-1.6
+MP003,Smart Watch,Electronics,159.04,Low Stock,2026-08-08 21:32:00,164.09,-3.77
+MP003,Smart Watch,Electronics,156.84,Out of Stock,2026-08-09 21:32:00,160.38,-1.38
+MP003,Smart Watch,Electronics,158.62,In Stock,2026-08-10 21:32:00,158.17,1.13
+MP003,Smart Watch,Electronics,157.78,In Stock,2026-08-11 21:32:00,157.75,-0.53
+MP003,Smart Watch,Electronics,162.51,In Stock,2026-08-12 21:32:00,159.64,3.0
+MP003,Smart Watch,Electronics,170.52,In Stock,2026-08-13 21:32:00,163.6,4.93
+MP003,Smart Watch,Electronics,170.97,In Stock,2026-08-14 21:32:00,168.0,0.26
+MP003,Smart Watch,Electronics,177.98,In Stock,2026-08-15 21:32:00,173.16,4.1
+MP003,Smart Watch,Electronics,172.15,Low Stock,2026-08-16 21:32:00,173.7,-3.28
+MP003,Smart Watch,Electronics,172.28,Out of Stock,2026-08-17 21:32:00,174.14,0.08
+MP003,Smart Watch,Electronics,178.77,In Stock,2026-08-18 21:32:00,174.4,3.77
+MP003,Smart Watch,Electronics,186.63,In Stock,2026-08-19 21:32:00,179.23,4.4
+MP003,Smart Watch,Electronics,183.63,In Stock,2026-08-20 21:32:00,183.01,-1.61
+MP003,Smart Watch,Electronics,192.54,In Stock,2026-08-21 21:32:00,187.6,4.85
+MP003,Smart Watch,Electronics,192.44,In Stock,2026-08-22 21:32:00,189.54,-0.05
+MP003,Smart Watch,Electronics,191.55,In Stock,2026-08-23 21:32:00,192.18,-0.46
+MP003,Smart Watch,Electronics,194.01,Out of Stock,2026-08-24 21:32:00,192.67,1.28
+MP003,Smart Watch,Electronics,202.44,In Stock,2026-08-25 21:32:00,196.0,4.35
+MP003,Smart Watch,Electronics,212.2,In Stock,2026-08-26 21:32:00,202.88,4.82
+MP003,Smart Watch,Electronics,201.67,In Stock,2026-08-27 21:32:00,205.44,-4.96
+MP004,Office Desk,Furniture,211.07,Out of Stock,2026-07-29 21:32:00,211.07,
+MP004,Office Desk,Furniture,220.52,Out of Stock,2026-07-30 21:32:00,215.8,4.48
+MP004,Office Desk,Furniture,223.58,In Stock,2026-07-31 21:32:00,218.39,1.39
+MP004,Office Desk,Furniture,214.23,In Stock,2026-08-01 21:32:00,219.44,-4.18
+MP004,Office Desk,Furniture,219.9,Out of Stock,2026-08-02 21:32:00,219.24,2.65
+MP004,Office Desk,Furniture,223.14,Low Stock,2026-08-03 21:32:00,219.09,1.47
+MP004,Office Desk,Furniture,220.86,Low Stock,2026-08-04 21:32:00,221.3,-1.02
+MP004,Office Desk,Furniture,211.65,In Stock,2026-08-05 21:32:00,218.55,-4.17
+MP004,Office Desk,Furniture,221.18,In Stock,2026-08-06 21:32:00,217.9,4.5
+MP004,Office Desk,Furniture,212.39,Out of Stock,2026-08-07 21:32:00,215.07,-3.97
+MP004,Office Desk,Furniture,222.86,Low Stock,2026-08-08 21:32:00,218.81,4.93
+MP004,Office Desk,Furniture,232.09,Out of Stock,2026-08-09 21:32:00,222.45,4.14
+MP004,Office Desk,Furniture,239.19,Low Stock,2026-08-10 21:32:00,231.38,3.06
+MP004,Office Desk,Furniture,250.07,In Stock,2026-08-11 21:32:00,240.45,4.55
+MP004,Office Desk,Furniture,258.44,In Stock,2026-08-12 21:32:00,249.23,3.35
+MP004,Office Desk,Furniture,249.42,Low Stock,2026-08-13 21:32:00,252.64,-3.49
+MP004,Office Desk,Furniture,247.77,In Stock,2026-08-14 21:32:00,251.88,-0.66
+MP004,Office Desk,Furniture,257.62,Out of Stock,2026-08-15 21:32:00,251.6,3.98
+MP004,Office Desk,Furniture,260.69,In Stock,2026-08-16 21:32:00,255.36,1.19
+MP004,Office Desk,Furniture,248.38,In Stock,2026-08-17 21:32:00,255.56,-4.72
+MP004,Office Desk,Furniture,258.88,In Stock,2026-08-18 21:32:00,255.98,4.23
+MP004,Office Desk,Furniture,249.64,In Stock,2026-08-19 21:32:00,252.3,-3.57
+MP004,Office Desk,Furniture,246.06,In Stock,2026-08-20 21:32:00,251.53,-1.43
+MP004,Office Desk,Furniture,257.67,In Stock,2026-08-21 21:32:00,251.12,4.72
+MP004,Office Desk,Furniture,247.09,In Stock,2026-08-22 21:32:00,250.27,-4.11
+MP004,Office Desk,Furniture,259.3,Low Stock,2026-08-23 21:32:00,254.69,4.94
+MP004,Office Desk,Furniture,266.03,In Stock,2026-08-24 21:32:00,257.47,2.6
+MP004,Office Desk,Furniture,270.24,Low Stock,2026-08-25 21:32:00,265.19,1.58
+MP004,Office Desk,Furniture,257.11,In Stock,2026-08-26 21:32:00,264.46,-4.86
+MP004,Office Desk,Furniture,268.98,Out of Stock,2026-08-27 21:32:00,265.44,4.62
+MP005,Ergonomic Chair,Furniture,296.3,Out of Stock,2026-07-29 21:32:00,296.3,
+MP005,Ergonomic Chair,Furniture,298.83,In Stock,2026-07-30 21:32:00,297.56,0.85
+MP005,Ergonomic Chair,Furniture,286.8,In Stock,2026-07-31 21:32:00,293.98,-4.03
+MP005,Ergonomic Chair,Furniture,287.52,In Stock,2026-08-01 21:32:00,291.05,0.25
+MP005,Ergonomic Chair,Furniture,295.83,In Stock,2026-08-02 21:32:00,290.05,2.89
+MP005,Ergonomic Chair,Furniture,289.46,Low Stock,2026-08-03 21:32:00,290.94,-2.15
+MP005,Ergonomic Chair,Furniture,277.32,Low Stock,2026-08-04 21:32:00,287.54,-4.19
+MP005,Ergonomic Chair,Furniture,269.89,In Stock,2026-08-05 21:32:00,278.89,-2.68
+MP005,Ergonomic Chair,Furniture,268.72,Out of Stock,2026-08-06 21:32:00,271.98,-0.43
+MP005,Ergonomic Chair,Furniture,259.35,In Stock,2026-08-07 21:32:00,265.99,-3.49
+MP005,Ergonomic Chair,Furniture,258.84,In Stock,2026-08-08 21:32:00,262.3,-0.2
+MP005,Ergonomic Chair,Furniture,253.61,In Stock,2026-08-09 21:32:00,257.27,-2.02
+MP005,Ergonomic Chair,Furniture,259.69,In Stock,2026-08-10 21:32:00,257.38,2.4
+MP005,Ergonomic Chair,Furniture,248.8,In Stock,2026-08-11 21:32:00,254.03,-4.19
+MP005,Ergonomic Chair,Furniture,259.0,In Stock,2026-08-12 21:32:00,255.83,4.1
+MP005,Ergonomic Chair,Furniture,266.94,In Stock,2026-08-13 21:32:00,258.25,3.07
+MP005,Ergonomic Chair,Furniture,275.65,In Stock,2026-08-14 21:32:00,267.2,3.26
+MP005,Ergonomic Chair,Furniture,284.33,Out of Stock,2026-08-15 21:32:00,275.64,3.15
+MP005,Ergonomic Chair,Furniture,285.94,In Stock,2026-08-16 21:32:00,281.97,0.57
+MP005,Ergonomic Chair,Furniture,284.32,Out of Stock,2026-08-17 21:32:00,284.86,-0.57
+MP005,Ergonomic Chair,Furniture,293.99,In Stock,2026-08-18 21:32:00,288.08,3.4
+MP005,Ergonomic Chair,Furniture,307.74,In Stock,2026-08-19 21:32:00,295.35,4.68
+MP005,Ergonomic Chair,Furniture,314.58,In Stock,2026-08-20 21:32:00,305.44,2.22
+MP005,Ergonomic Chair,Furniture,301.5,In Stock,2026-08-21 21:32:00,307.94,-4.16
+MP005,Ergonomic Chair,Furniture,310.53,In Stock,2026-08-22 21:32:00,308.87,3.0
+MP005,Ergonomic Chair,Furniture,323.78,In Stock,2026-08-23 21:32:00,311.94,4.27
+MP005,Ergonomic Chair,Furniture,322.02,In Stock,2026-08-24 21:32:00,318.78,-0.54
+MP005,Ergonomic Chair,Furniture,327.06,Out of Stock,2026-08-25 21:32:00,324.29,1.57
+MP005,Ergonomic Chair,Furniture,276.07,In Stock,2026-08-26 21:32:00,308.38,-15.59
+MP005,Ergonomic Chair,Furniture,271.2,In Stock,2026-08-27 21:32:00,291.44,-1.76
+MP006,"LED Monitor 27""",Electronics,233.15,In Stock,2026-07-29 21:32:00,233.15,
+MP006,"LED Monitor 27""",Electronics,244.25,In Stock,2026-07-30 21:32:00,238.7,4.76
+MP006,"LED Monitor 27""",Electronics,245.82,Out of Stock,2026-07-31 21:32:00,241.07,0.64
+MP006,"LED Monitor 27""",Electronics,251.46,In Stock,2026-08-01 21:32:00,247.18,2.29
+MP006,"LED Monitor 27""",Electronics,247.44,In Stock,2026-08-02 21:32:00,248.24,-1.6
+MP006,"LED Monitor 27""",Electronics,257.02,In Stock,2026-08-03 21:32:00,251.97,3.87
+MP006,"LED Monitor 27""",Electronics,254.49,In Stock,2026-08-04 21:32:00,252.98,-0.98
+MP006,"LED Monitor 27""",Electronics,242.07,Out of Stock,2026-08-05 21:32:00,251.19,-4.88
+MP006,"LED Monitor 27""",Electronics,239.46,Low Stock,2026-08-06 21:32:00,245.34,-1.08
+MP006,"LED Monitor 27""",Electronics,250.21,Out of Stock,2026-08-07 21:32:00,243.91,4.49
+MP006,"LED Monitor 27""",Electronics,239.85,In Stock,2026-08-08 21:32:00,243.17,-4.14
+MP006,"LED Monitor 27""",Electronics,244.56,In Stock,2026-08-09 21:32:00,244.87,1.96
+MP006,"LED Monitor 27""",Electronics,237.22,Low Stock,2026-08-10 21:32:00,240.54,-3.0
+MP006,"LED Monitor 27""",Electronics,230.74,In Stock,2026-08-11 21:32:00,237.51,-2.73
+MP006,"LED Monitor 27""",Electronics,230.23,In Stock,2026-08-12 21:32:00,232.73,-0.22
+MP006,"LED Monitor 27""",Electronics,232.8,Out of Stock,2026-08-13 21:32:00,231.26,1.12
+MP006,"LED Monitor 27""",Electronics,221.81,In Stock,2026-08-14 21:32:00,228.28,-4.72
+MP006,"LED Monitor 27""",Electronics,220.05,Out of Stock,2026-08-15 21:32:00,224.89,-0.79
+MP006,"LED Monitor 27""",Electronics,224.06,Out of Stock,2026-08-16 21:32:00,221.97,1.82
+MP006,"LED Monitor 27""",Electronics,234.67,Out of Stock,2026-08-17 21:32:00,226.26,4.74
+MP006,"LED Monitor 27""",Electronics,232.71,Low Stock,2026-08-18 21:32:00,230.48,-0.84
+MP006,"LED Monitor 27""",Electronics,238.45,In Stock,2026-08-19 21:32:00,235.28,2.47
+MP006,"LED Monitor 27""",Electronics,234.59,Low Stock,2026-08-20 21:32:00,235.25,-1.62
+MP006,"LED Monitor 27""",Electronics,223.79,In Stock,2026-08-21 21:32:00,232.28,-4.6
+MP006,"LED Monitor 27""",Electronics,222.12,In Stock,2026-08-22 21:32:00,226.83,-0.75
+MP006,"LED Monitor 27""",Electronics,224.82,In Stock,2026-08-23 21:32:00,223.58,1.22
+MP006,"LED Monitor 27""",Electronics,219.66,In Stock,2026-08-24 21:32:00,222.2,-2.3
+MP006,"LED Monitor 27""",Electronics,227.01,Low Stock,2026-08-25 21:32:00,223.83,3.35
+MP006,"LED Monitor 27""",Electronics,217.58,Low Stock,2026-08-26 21:32:00,221.42,-4.15
+MP006,"LED Monitor 27""",Electronics,227.71,In Stock,2026-08-27 21:32:00,224.1,4.66
+MP007,Bluetooth Speaker,Electronics,44.7,In Stock,2026-07-29 21:32:00,44.7,
+MP007,Bluetooth Speaker,Electronics,44.95,In Stock,2026-07-30 21:32:00,44.82,0.56
+MP007,Bluetooth Speaker,Electronics,43.63,Out of Stock,2026-07-31 21:32:00,44.43,-2.94
+MP007,Bluetooth Speaker,Electronics,44.11,In Stock,2026-08-01 21:32:00,44.23,1.1
+MP007,Bluetooth Speaker,Electronics,44.53,Out of Stock,2026-08-02 21:32:00,44.09,0.95
+MP007,Bluetooth Speaker,Electronics,42.4,Low Stock,2026-08-03 21:32:00,43.68,-4.78
+MP007,Bluetooth Speaker,Electronics,44.03,Low Stock,2026-08-04 21:32:00,43.65,3.84
+MP007,Bluetooth Speaker,Electronics,42.63,In Stock,2026-08-05 21:32:00,43.02,-3.18
+MP007,Bluetooth Speaker,Electronics,42.18,Low Stock,2026-08-06 21:32:00,42.95,-1.06
+MP007,Bluetooth Speaker,Electronics,40.18,In Stock,2026-08-07 21:32:00,41.66,-4.74
+MP007,Bluetooth Speaker,Electronics,41.18,In Stock,2026-08-08 21:32:00,41.18,2.49
+MP007,Bluetooth Speaker,Electronics,41.26,In Stock,2026-08-09 21:32:00,40.87,0.19
+MP007,Bluetooth Speaker,Electronics,40.66,In Stock,2026-08-10 21:32:00,41.03,-1.45
+MP007,Bluetooth Speaker,Electronics,40.0,Low Stock,2026-08-11 21:32:00,40.64,-1.62
+MP007,Bluetooth Speaker,Electronics,39.74,In Stock,2026-08-12 21:32:00,40.13,-0.65
+MP007,Bluetooth Speaker,Electronics,41.65,In Stock,2026-08-13 21:32:00,40.46,4.81
+MP007,Bluetooth Speaker,Electronics,40.79,In Stock,2026-08-14 21:32:00,40.73,-2.06
+MP007,Bluetooth Speaker,Electronics,39.28,In Stock,2026-08-15 21:32:00,40.57,-3.7
+MP007,Bluetooth Speaker,Electronics,39.5,In Stock,2026-08-16 21:32:00,39.86,0.56
+MP007,Bluetooth Speaker,Electronics,39.55,In Stock,2026-08-17 21:32:00,39.44,0.13
+MP007,Bluetooth Speaker,Electronics,39.32,In Stock,2026-08-18 21:32:00,39.46,-0.58
+MP007,Bluetooth Speaker,Electronics,38.92,Low Stock,2026-08-19 21:32:00,39.26,-1.02
+MP007,Bluetooth Speaker,Electronics,38.69,In Stock,2026-08-20 21:32:00,38.98,-0.59
+MP007,Bluetooth Speaker,Electronics,37.8,In Stock,2026-08-21 21:32:00,38.47,-2.3
+MP007,Bluetooth Speaker,Electronics,36.93,In Stock,2026-08-22 21:32:00,37.81,-2.3
+MP007,Bluetooth Speaker,Electronics,37.03,In Stock,2026-08-23 21:32:00,37.25,0.27
+MP007,Bluetooth Speaker,Electronics,38.86,In Stock,2026-08-24 21:32:00,37.61,4.94
+MP007,Bluetooth Speaker,Electronics,40.69,In Stock,2026-08-25 21:32:00,38.86,4.71
+MP007,Bluetooth Speaker,Electronics,42.2,In Stock,2026-08-26 21:32:00,40.58,3.71
+MP007,Bluetooth Speaker,Electronics,41.01,In Stock,2026-08-27 21:32:00,41.3,-2.82
+MP008,Bookshelf,Furniture,126.63,Out of Stock,2026-07-29 21:32:00,126.63,
+MP008,Bookshelf,Furniture,123.97,In Stock,2026-07-30 21:32:00,125.3,-2.1
+MP008,Bookshelf,Furniture,123.07,In Stock,2026-07-31 21:32:00,124.56,-0.73
+MP008,Bookshelf,Furniture,118.37,Low Stock,2026-08-01 21:32:00,121.8,-3.82
+MP008,Bookshelf,Furniture,121.88,In Stock,2026-08-02 21:32:00,121.11,2.97
+MP008,Bookshelf,Furniture,120.12,Out of Stock,2026-08-03 21:32:00,120.12,-1.44
+MP008,Bookshelf,Furniture,124.49,In Stock,2026-08-04 21:32:00,122.16,3.64
+MP008,Bookshelf,Furniture,118.32,Low Stock,2026-08-05 21:32:00,120.98,-4.96
+MP008,Bookshelf,Furniture,119.91,In Stock,2026-08-06 21:32:00,120.91,1.34
+MP008,Bookshelf,Furniture,121.28,In Stock,2026-08-07 21:32:00,119.84,1.14
+MP008,Bookshelf,Furniture,121.02,In Stock,2026-08-08 21:32:00,120.74,-0.21
+MP008,Bookshelf,Furniture,119.27,In Stock,2026-08-09 21:32:00,120.52,-1.45
+MP008,Bookshelf,Furniture,125.11,In Stock,2026-08-10 21:32:00,121.8,4.9
+MP008,Bookshelf,Furniture,126.66,Out of Stock,2026-08-11 21:32:00,123.68,1.24
+MP008,Bookshelf,Furniture,121.43,Low Stock,2026-08-12 21:32:00,124.4,-4.13
+MP008,Bookshelf,Furniture,117.25,Out of Stock,2026-08-13 21:32:00,121.78,-3.44
+MP008,Bookshelf,Furniture,120.34,In Stock,2026-08-14 21:32:00,119.67,2.64
+MP008,Bookshelf,Furniture,120.62,In Stock,2026-08-15 21:32:00,119.4,0.23
+MP008,Bookshelf,Furniture,125.24,In Stock,2026-08-16 21:32:00,122.07,3.83
+MP008,Bookshelf,Furniture,124.64,Out of Stock,2026-08-17 21:32:00,123.5,-0.48
+MP008,Bookshelf,Furniture,126.77,Low Stock,2026-08-18 21:32:00,125.55,1.71
+MP008,Bookshelf,Furniture,122.5,In Stock,2026-08-19 21:32:00,124.64,-3.37
+MP008,Bookshelf,Furniture,121.08,Out of Stock,2026-08-20 21:32:00,123.45,-1.16
+MP008,Bookshelf,Furniture,124.95,In Stock,2026-08-21 21:32:00,122.84,3.2
+MP008,Bookshelf,Furniture,126.63,In Stock,2026-08-22 21:32:00,124.22,1.34
+MP008,Bookshelf,Furniture,132.18,In Stock,2026-08-23 21:32:00,127.92,4.38
+MP008,Bookshelf,Furniture,125.77,Out of Stock,2026-08-24 21:32:00,128.19,-4.85
+MP008,Bookshelf,Furniture,128.13,In Stock,2026-08-25 21:32:00,128.69,1.88
+MP008,Bookshelf,Furniture,129.4,In Stock,2026-08-26 21:32:00,127.77,0.99
+MP008,Bookshelf,Furniture,122.94,Low Stock,2026-08-27 21:32:00,126.82,-4.99

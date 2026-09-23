@@ -1,0 +1,82 @@
+﻿order_id,order_date,customer_id,product_id,product_name,region,quantity,unit_price,rejection_reason
+ORD00811,2025-01-14,,P010,Monitor Stand,Alexandria,5.0,69.01,customer_id فارغ
+ORD00639,2024-03-28,C034,P001,Wireless Mouse,Alexandria,,434.45,quantity فارغة
+ORD01103,2024-10-10,C011,P005,Standing Desk,Giza,6.0,-194.83,unit_price سالب
+ORD00454,2024-03-20,C029,P002,Mechanical Keyboard,Giza,,194.31,quantity فارغة
+ORD00918,2024-11-03,C006,P004,Office Chair,Giza,3.0,-423.29,unit_price سالب
+ORD01150,2024-03-19,,P004,Office Chair,Mansoura,2.0,330.0,customer_id فارغ
+ORD00269,2024-08-15,C009,P002,Mechanical Keyboard,Aswan,,240.96,quantity فارغة
+ORD00296,2024-03-12,C036,P009,Webcam HD,Alexandria,,215.99,quantity فارغة
+ORD00022,2024-07-24,C011,P004,Office Chair,Mansoura,8.0,-224.39,unit_price سالب
+ORD00459,2024-01-26,C032,P010,Monitor Stand,Alexandria,,23.44,quantity فارغة
+ORD01031,2024-08-05,C026,P005,Standing Desk,,,216.82,quantity فارغة
+ORD00793,2024-07-25,,P001,Wireless Mouse,Giza,6.0,355.66,customer_id فارغ
+ORD00779,2024-04-01,C025,P006,Notebook Set,Alexandria,,95.15,quantity فارغة
+ORD00845,2024-11-22,C033,P008,Desk Lamp,Mansoura,,16.36,quantity فارغة
+ORD00912,2024-05-23,C001,P001,Wireless Mouse,Giza,4.0,-332.76,unit_price سالب
+ORD00941,2025-01-31,C022,P002,Mechanical Keyboard,Mansoura,,58.94,quantity فارغة
+ORD00062,2024-05-21,C022,P005,Standing Desk,Giza,,320.01,quantity فارغة
+ORD00843,2024-01-07,C026,P006,Notebook Set,Mansoura,10.0,-39.9,unit_price سالب
+ORD01079,2024-01-18,C036,P005,Standing Desk,Mansoura,,69.98,quantity فارغة
+ORD00275,2024-11-22,,P004,Office Chair,Mansoura,2.0,119.87,customer_id فارغ
+ORD00495,2024-03-12,C005,P001,Wireless Mouse,Mansoura,5.0,-303.4,unit_price سالب
+ORD00221,2024-04-28,C001,P001,Wireless Mouse,Mansoura,3.0,-381.51,unit_price سالب
+ORD00420,2025-01-15,,P009,Webcam HD,Giza,4.0,17.38,customer_id فارغ
+ORD00442,2025-01-13,C025,P007,Gel Pen Pack,Alexandria,3.0,-363.02,unit_price سالب
+ORD00266,2024-11-16,C032,P010,Monitor Stand,Giza,,34.99,quantity فارغة
+ORD00497,2024-07-09,C003,P001,Wireless Mouse,Alexandria,9.0,-147.64,unit_price سالب
+ORD00820,2024-01-07,C015,P009,Webcam HD,Aswan,,321.51,quantity فارغة
+ORD00222,2024-09-29,C040,P010,Monitor Stand,Mansoura,8.0,-21.84,unit_price سالب
+ORD00731,2024-11-29,,P005,Standing Desk,Giza,2.0,35.76,customer_id فارغ
+ORD00392,2024-11-18,C015,P010,Monitor Stand,Giza,7.0,-183.79,unit_price سالب
+ORD01022,2024-07-29,C030,P006,Notebook Set,Giza,,217.95,quantity فارغة
+ORD00824,2024-08-14,C039,P004,Office Chair,Mansoura,,154.91,quantity فارغة
+ORD00306,2024-11-04,C032,P003,USB-C Hub,Cairo,,39.43,quantity فارغة
+ORD00600,2024-11-27,C014,P007,Gel Pen Pack,Alexandria,,143.67,quantity فارغة
+ORD00249,2024-08-18,C026,P007,Gel Pen Pack,Cairo,10.0,-399.15,unit_price سالب
+ORD00891,2024-08-12,,P009,Webcam HD,Cairo,8.0,300.48,customer_id فارغ
+ORD00061,2024-07-13,C016,P008,Desk Lamp,Mansoura,,280.49,quantity فارغة
+ORD00975,2024-11-20,,P002,Mechanical Keyboard,Mansoura,7.0,402.03,customer_id فارغ
+ORD00480,2024-08-17,C036,P007,Gel Pen Pack,,,433.32,quantity فارغة
+ORD00363,2024-02-02,C032,P008,Desk Lamp,Cairo,7.0,-206.7,unit_price سالب
+ORD00524,2024-05-28,C032,P008,Desk Lamp,Alexandria,,116.23,quantity فارغة
+ORD00567,2024-12-12,,P008,Desk Lamp,,4.0,241.18,customer_id فارغ
+ORD00703,2024-10-26,C030,P002,Mechanical Keyboard,Aswan,5.0,-169.62,unit_price سالب
+ORD00557,2024-01-28,C005,P008,Desk Lamp,Aswan,10.0,-150.94,unit_price سالب
+ORD01114,2024-09-02,C036,P009,Webcam HD,Cairo,2.0,-200.18,unit_price سالب
+ORD00465,2024-05-21,,P002,Mechanical Keyboard,Mansoura,6.0,21.55,customer_id فارغ
+ORD00586,2024-02-11,C025,P010,Monitor Stand,Alexandria,,397.64,quantity فارغة
+ORD00676,2024-11-24,C002,P008,Desk Lamp,Cairo,,289.12,quantity فارغة
+ORD00225,2024-09-10,C003,P002,Mechanical Keyboard,Cairo,7.0,-179.98,unit_price سالب
+ORD00481,2024-04-19,C020,P003,USB-C Hub,Cairo,,443.21,quantity فارغة
+ORD01027,2024-02-28,C001,P005,Standing Desk,Mansoura,,314.18,quantity فارغة
+ORD00148,2024-05-29,C033,P001,Wireless Mouse,Aswan,,327.57,quantity فارغة
+ORD00314,2024-01-18,C015,P010,Monitor Stand,Alexandria,,47.06,quantity فارغة
+ORD00031,2024-08-06,C017,P003,USB-C Hub,Alexandria,,254.98,quantity فارغة
+ORD00976,2024-06-26,,P010,Monitor Stand,Cairo,2.0,439.52,customer_id فارغ
+ORD01159,2024-07-15,C008,P006,Notebook Set,Alexandria,7.0,-246.29,unit_price سالب
+ORD00532,2024-08-15,C024,P002,Mechanical Keyboard,Cairo,,412.31,quantity فارغة
+ORD00868,2024-12-21,C014,P002,Mechanical Keyboard,Cairo,,389.97,quantity فارغة
+ORD00879,2024-06-03,C036,P009,Webcam HD,Aswan,,222.43,quantity فارغة
+ORD00819,2024-07-12,C022,P003,USB-C Hub,Alexandria,6.0,-440.44,unit_price سالب
+ORD00196,2024-06-03,C016,P007,Gel Pen Pack,Mansoura,5.0,-430.01,unit_price سالب
+ORD00051,2024-11-08,C039,P009,Webcam HD,Alexandria,,110.45,quantity فارغة
+ORD01168,2024-07-27,C026,P010,Monitor Stand,Alexandria,,133.62,quantity فارغة
+ORD00554,2024-07-15,,P008,Desk Lamp,Mansoura,9.0,371.73,customer_id فارغ
+ORD00938,2024-02-24,C002,P006,Notebook Set,Alexandria,5.0,-85.8,unit_price سالب
+ORD01057,2024-08-20,C003,P003,USB-C Hub,Alexandria,,297.71,quantity فارغة
+ORD01093,2024-02-15,,P008,Desk Lamp,Alexandria,4.0,291.13,customer_id فارغ
+ORD00180,2024-10-15,C033,P006,Notebook Set,Aswan,9.0,-228.08,unit_price سالب
+ORD00325,2024-06-15,,P002,Mechanical Keyboard,Mansoura,9.0,187.85,customer_id فارغ
+ORD01008,2024-08-30,C005,P005,Standing Desk,Alexandria,,273.39,quantity فارغة
+ORD00960,2024-04-07,C039,P003,USB-C Hub,,4.0,-166.42,unit_price سالب
+ORD00378,2024-09-24,C035,P007,Gel Pen Pack,Giza,,366.61,quantity فارغة
+ORD00643,2024-08-31,C019,P007,Gel Pen Pack,Mansoura,4.0,-387.7,unit_price سالب
+ORD00597,2024-08-24,C034,P007,Gel Pen Pack,Mansoura,,272.34,quantity فارغة
+ORD00122,2024-11-02,C034,P008,Desk Lamp,Giza,,110.93,quantity فارغة
+ORD00409,2024-06-25,,P005,Standing Desk,Alexandria,9.0,191.54,customer_id فارغ
+ORD00876,2024-04-25,C022,P006,Notebook Set,Giza,,392.95,quantity فارغة
+ORD01058,2024-07-15,C006,P005,Standing Desk,Cairo,,386.74,quantity فارغة
+ORD00664,2024-03-17,C039,P005,Standing Desk,Alexandria,,118.74,quantity فارغة
+ORD01170,2024-07-18,C038,P008,Desk Lamp,Mansoura,10.0,-158.01,unit_price سالب
+ORD00626,2024-11-26,C027,P005,Standing Desk,Alexandria,,409.46,quantity فارغة

@@ -1,0 +1,21 @@
+database:
+  path: data/warehouse/delivery_dw.db
+
+paths:
+  raw: data/raw
+  staging: data/staging
+  rejected: data/rejected
+  logs: logs
+  reports: reports
+
+extract:
+  request_timeout_seconds: 15
+  weather_url: https://api.open-meteo.com/v1/forecast
+
+quality:
+  min_weight_kg: 0.1
+  max_weight_kg: 80
+
+api:
+  host: 127.0.0.1
+  port: 8002

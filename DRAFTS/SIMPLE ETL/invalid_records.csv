@@ -1,0 +1,7 @@
+patient_id,name,age,gender,blood_pressure_systolic,heart_rate,diagnosis,admission_date,length_of_stay_days,invalid_reason
+P045,Ihab Morsy,-5,Female,0,0,Diabetes,,-3,عمر غير منطقي | ضغط دم غير منطقي | ضربات قلب غير منطقية | مدة إقامة غير منطقية | تاريخ دخول غير صحيح | 
+P046,Lobna Gamal,0,Female,-10,200,Hypertension,,0,ضغط دم غير منطقي | مدة إقامة غير منطقية | تاريخ دخول غير صحيح | 
+P047,Hesham Shaker,150,Female,300,-5,Unknown,,100,عمر غير منطقي | ضغط دم غير منطقي | ضربات قلب غير منطقية | مدة إقامة غير منطقية | تاريخ دخول غير صحيح | 
+P048,Manal Fouad,999,Female,0,999,Hypertension,,-1,عمر غير منطقي | ضغط دم غير منطقي | ضربات قلب غير منطقية | مدة إقامة غير منطقية | تاريخ دخول غير صحيح | 
+P049,Samy Abdallah,-1,Female,999,0,Diabetes,,50,عمر غير منطقي | ضغط دم غير منطقي | ضربات قلب غير منطقية | تاريخ دخول غير صحيح | 
+P050,Zeinab Rushdy,200,Female,-50,300,Asthma,2024-06-20,0,عمر غير منطقي | ضغط دم غير منطقي | ضربات قلب غير منطقية | مدة إقامة غير منطقية | 

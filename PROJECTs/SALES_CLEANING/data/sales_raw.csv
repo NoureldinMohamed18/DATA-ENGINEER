@@ -1,0 +1,26 @@
+Order_ID,Product,Category,Price,Quantity,Order_Date,Customer_Name,City,Payment_Method,Discount
+1001,Laptop,Electronics,1200.50,1,2024-01-15,Ahmed Ali,Cairo,Credit Card,0.10
+1002,Mouse,Electronics,25.00,2,2024-01-16,Fatima Hassan,Alexandria,Cash,0.00
+1003,Keyboard,Electronics,45.99,1,2024-01-17,Omar Khaled,Giza,Credit Card,0.05
+1004,Notebook,Stationery,5.50,10,2024-01-18,Sara Mahmoud,Cairo,Cash,0.00
+1005,Desk Chair,Furniture,150.00,1,2024-01-19,Mohamed Adel,Alexandria,Credit Card,0.15
+1006,Monitor,Electronics,300.00,2,2024-01-20,Layla Youssef,Giza,Cash,0.10
+1007,Pen Set,Stationery,12.00,5,2024-01-21,Karim Samir,Cairo,Credit Card,0.00
+1008,Printer,Electronics,200.00,1,2024-01-22,Nour Ahmed,Alexandria,Cash,0.05
+1009,Desk,Furniture,250.00,1,2024-01-23,Hana Ibrahim,Giza,Credit Card,0.10
+1010,USB Cable,Electronics,10.00,3,2024-01-24,Youssef Omar,Cairo,Cash,0.00
+1011,Tablet,Electronics,500.00,1,2024-02-01,Mariam Said,Alexandria,Credit Card,0.08
+1012,Headphones,Electronics,80.00,2,2024-02-02,Tarek Hossam,Giza,Cash,0.00
+1013,Paper Ream,Stationery,8.00,20,2024-02-03,Dina Kareem,Cairo,Credit Card,0.00
+1014,Bookshelf,Furniture,120.00,1,2024-02-04,Amr Fathy,Alexandria,Cash,0.12
+1015,Webcam,Electronics,60.00,1,2024-02-05,Salma Nasser,Giza,Credit Card,0.00
+1016,Stapler,Stationery,15.00,2,2024-02-06,Hassan Ali,Cairo,Cash,0.00
+1017,Lamp,Furniture,35.00,3,2024-02-07,Reem Khaled,Alexandria,Credit Card,0.05
+1018,SSD Drive,Electronics,100.00,2,2024-02-08,Walid Mahmoud,Giza,Cash,0.10
+1019,Whiteboard,Stationery,45.00,1,2024-02-09,Nada Youssef,Cairo,Credit Card,0.00
+1020,Sofa,Furniture,800.00,1,2024-02-10,Omar Hassan,Alexandria,Cash,0.20
+1021,Laptop,Electronics,1200.50,1,2024-03-05,Ahmed Ali,Cairo,Credit Card,0.10
+1022,Mouse,Electronics,25.00,5,2024-03-06,Fatima Hassan,Alexandria,Cash,0.00
+1023,Keyboard,Electronics,45.99,2,2024-03-07,Omar Khaled,Giza,Credit Card,0.05
+1024,Notebook,Stationery,5.50,15,2024-03-08,Sara Mahmoud,Cairo,Cash,0.00
+1025,Desk Chair,Furniture,150.00,2,2024-03-09,Mohamed Adel,Alexandria,Credit Card,0.15
