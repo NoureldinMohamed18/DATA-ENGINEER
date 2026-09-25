@@ -1,0 +1,25 @@
+SALES SUMMARY REPORT
+========================================
+Total revenue: 256,496.96
+Total orders: 188
+
+Revenue by Product:
+  Headphones         39,625.24
+  Monitor            37,924.99
+  Webcam             36,487.55
+  Keyboard           32,690.68
+  Mouse              30,088.84
+  Usb Cable          29,611.86
+  Desk Chair         27,467.89
+  Laptop             22,599.91
+
+Revenue by Month:
+  2026-01           256,496.96
+
+Revenue by Region:
+  Aswan              62,942.49
+  Cairo              57,967.84
+  Giza               50,509.94
+  Mansoura           46,293.75
+  Alexandria         33,157.79
+  Unknown             5,625.15
