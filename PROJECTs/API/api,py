@@ -1,0 +1,72 @@
+"""
+api.py
+-------
+A small Flask API that exposes the repo data stored in repos.db.
+
+This is the "second half" of Project 4: not just consuming an external API
+(GitHub), but also building your own API on top of the pipeline's output —
+exactly what "Python for Databases & APIs" (Flask section) covers.
+
+Endpoints:
+    GET /repos                -> list all stored repos, most recently fetched first
+    GET /repos/<repo_id>      -> get a single repo by its GitHub id
+    GET /repos/top?limit=5    -> top N repos by star count
+
+Run:
+    python api.py
+Then visit:
+    http://127.0.0.1:5000/repos
+"""
+
+import sqlite3
+from flask import Flask, jsonify, request, abort
+from pathlib import Path
+
+DB_PATH = Path("repos.db")
+app = Flask(__name__)
+
+
+def get_connection():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row  # lets us access columns by name
+    return conn
+
+
+@app.route("/repos", methods=["GET"])
+def list_repos():
+    conn = get_connection()
+    rows = conn.execute("SELECT * FROM repos ORDER BY fetched_at DESC").fetchall()
+    conn.close()
+    return jsonify([dict(row) for row in rows])
+
+
+@app.route("/repos/top", methods=["GET"])
+def top_repos():
+    limit = request.args.get("limit", default=5, type=int)
+    conn = get_connection()
+    rows = conn.execute(
+        "SELECT * FROM repos ORDER BY stars DESC LIMIT ?", (limit,)
+    ).fetchall()
+    conn.close()
+    return jsonify([dict(row) for row in rows])
+
+
+@app.route("/repos/<int:repo_id>", methods=["GET"])
+def get_repo(repo_id):
+    conn = get_connection()
+    row = conn.execute("SELECT * FROM repos WHERE repo_id = ?", (repo_id,)).fetchone()
+    conn.close()
+    if row is None:
+        abort(404, description=f"No repo found with id {repo_id}")
+    return jsonify(dict(row))
+
+
+@app.errorhandler(404)
+def not_found(e):
+    return jsonify({"error": str(e)}), 404
+
+
+if __name__ == "__main__":
+    if not DB_PATH.exists():
+        print("[API] Warning: repos.db not found. Run extract.py -> transform.py -> load.py first.")
+    app.run(debug=True)

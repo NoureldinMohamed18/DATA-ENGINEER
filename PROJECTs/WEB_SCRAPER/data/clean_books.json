@@ -1,0 +1,58 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": 51.77,
+    "rating": 3,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price": 53.74,
+    "rating": 1,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+  },
+  {
+    "title": "Soumission",
+    "price": 50.1,
+    "rating": 1,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+  },
+  {
+    "title": "Sharp Objects",
+    "price": 47.82,
+    "rating": 4,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": 54.23,
+    "rating": 5,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+  },
+  {
+    "title": "The Requiem Red",
+    "price": 22.65,
+    "rating": 1,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+  },
+  {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": 33.34,
+    "rating": 4,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+  },
+  {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price": 17.93,
+    "rating": 3,
+    "in_stock": true,
+    "product_url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+  }
+]

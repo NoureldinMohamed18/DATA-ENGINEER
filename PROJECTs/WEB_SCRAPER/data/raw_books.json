@@ -1,0 +1,58 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price_text": "£51.77",
+    "rating_word": "Three",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price_text": "£53.74",
+    "rating_word": "One",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+  },
+  {
+    "title": "Soumission",
+    "price_text": "£50.10",
+    "rating_word": "One",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+  },
+  {
+    "title": "Sharp Objects",
+    "price_text": "£47.82",
+    "rating_word": "Four",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price_text": "£54.23",
+    "rating_word": "Five",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+  },
+  {
+    "title": "The Requiem Red",
+    "price_text": "£22.65",
+    "rating_word": "One",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+  },
+  {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price_text": "£33.34",
+    "rating_word": "Four",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+  },
+  {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price_text": "£17.93",
+    "rating_word": "Three",
+    "availability_text": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+  }
+]
