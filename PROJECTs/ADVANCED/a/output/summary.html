@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<title>E-Commerce Pipeline Report</title>
+<style>
+  body{font-family:Arial,sans-serif;background:#f8fafc;margin:0;padding:20px}
+  .wrap{max-width:900px;margin:auto}
+  h1{color:#1e3a8a;text-align:center}
+  .kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:24px 0}
+  .kpi{background:white;border-radius:10px;padding:20px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,.08)}
+  .kpi-v{font-size:26px;font-weight:bold;color:#2563eb}
+  .kpi-l{color:#64748b;margin-top:4px;font-size:13px}
+  .card{background:white;border-radius:10px;padding:20px;margin-bottom:16px;box-shadow:0 2px 6px rgba(0,0,0,.08)}
+  h2{color:#1e293b;border-bottom:2px solid #e2e8f0;padding-bottom:8px}
+  table{width:100%;border-collapse:collapse}
+  th{background:#2563eb;color:white;padding:10px;text-align:left}
+  td{padding:10px;border-bottom:1px solid #f1f5f9}
+  tr:hover{background:#f8fafc}
+  .ts{color:#64748b;font-size:12px;text-align:center;margin-top:20px}
+</style></head><body>
+<div class="wrap">
+  <h1>🛒 E-Commerce ETL Pipeline Report</h1>
+  <div class="kpis">
+    <div class="kpi"><div class="kpi-v">187</div><div class="kpi-l">Total Orders</div></div>
+    <div class="kpi"><div class="kpi-v">$78,348</div><div class="kpi-l">Total Revenue</div></div>
+    <div class="kpi"><div class="kpi-v">4</div><div class="kpi-l">Order Statuses</div></div>
+  </div>
+  <div class="card"><h2>Top Categories by Revenue</h2>
+    <table><tr><th>Category</th><th>Revenue</th></tr><tr><td>Books</td><td>$18,679.38</td></tr><tr><td>Home</td><td>$18,254.66</td></tr><tr><td>Electronics</td><td>$16,168.03</td></tr><tr><td>Sports</td><td>$13,736.62</td></tr><tr><td>Clothing</td><td>$11,509.11</td></tr></table></div>
+  <div class="card"><h2>Orders by Status</h2>
+    <table><tr><th>Status</th><th>Count</th></tr><tr><td>cancelled</td><td>60</td></tr><tr><td>refunded</td><td>53</td></tr><tr><td>pending</td><td>39</td></tr><tr><td>completed</td><td>35</td></tr></table></div>
+  <p class="ts">Generated: 2026-09-27 18:30 | E-Commerce ETL Pipeline v1.0</p>
+</div></body></html>

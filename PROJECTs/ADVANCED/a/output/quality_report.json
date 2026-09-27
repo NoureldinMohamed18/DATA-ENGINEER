@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-09-27 18:30",
+  "total_orders": 187,
+  "total_revenue": 78347.8,
+  "null_counts": {
+    "order_id": 0,
+    "customer_id": 0,
+    "product_id": 0,
+    "quantity": 0,
+    "unit_price": 0,
+    "status": 0,
+    "channel": 0,
+    "order_date": 0,
+    "category": 0,
+    "total_amount": 0,
+    "name": 0,
+    "email": 0,
+    "city": 0,
+    "company": 0,
+    "phone": 0,
+    "product_name": 0,
+    "rating": 0
+  },
+  "status_dist": {
+    "cancelled": 60,
+    "refunded": 53,
+    "pending": 39,
+    "completed": 35
+  },
+  "channel_dist": {
+    "phone": 52,
+    "website": 49,
+    "mobile_app": 43,
+    "store": 43
+  },
+  "top_categories": {
+    "Books": 18679.38,
+    "Home": 18254.66,
+    "Electronics": 16168.03,
+    "Sports": 13736.619999999999,
+    "Clothing": 11509.11
+  }
+}

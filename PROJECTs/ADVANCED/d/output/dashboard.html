@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Content Aggregator Dashboard</title>
+<style>
+  body{font-family:Arial,sans-serif;background:#0f172a;color:#e2e8f0;margin:0;padding:20px}
+  .wrap{max-width:1100px;margin:auto}
+  h1{color:#60a5fa;text-align:center;margin-bottom:4px}
+  .sub{text-align:center;color:#64748b;margin-bottom:24px;font-size:13px}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:24px}
+  .kpi{background:#1e293b;border-radius:10px;padding:18px;text-align:center;border:1px solid #334155}
+  .kpi-v{font-size:26px;font-weight:bold;color:#60a5fa}
+  .kpi-l{color:#64748b;font-size:12px;margin-top:4px}
+  .grid{display:grid;grid-template-columns:1.5fr 1fr;gap:16px}
+  .card{background:#1e293b;border-radius:10px;padding:20px;border:1px solid #334155;margin-bottom:16px}
+  h2{color:#93c5fd;border-bottom:1px solid #334155;padding-bottom:8px;margin-top:0;font-size:15px}
+  table{width:100%;border-collapse:collapse}
+  th{background:#0f172a;color:#60a5fa;padding:9px;text-align:left;font-size:12px}
+  td{padding:9px;border-bottom:1px solid #1e293b;font-size:12px}
+  tr:hover{background:#0f172a}
+  .badge{background:#2563eb;color:white;padding:2px 8px;border-radius:10px;font-size:11px}
+  .footer{text-align:center;color:#475569;font-size:12px;margin-top:20px}
+</style></head><body>
+<div class="wrap">
+  <h1>📰 Content Aggregator Dashboard</h1>
+  <p class="sub">3 sources · scraped 2026-09-27 18:45</p>
+  <div class="kpis">
+    <div class="kpi"><div class="kpi-v">110</div><div class="kpi-l">Total Items</div></div>
+    <div class="kpi"><div class="kpi-v">2</div><div class="kpi-l">Sources</div></div>
+    <div class="kpi"><div class="kpi-v">451</div><div class="kpi-l">Unique Words</div></div>
+    <div class="kpi"><div class="kpi-v">42.5</div><div class="kpi-l">Avg Score</div></div>
+  </div>
+  <div class="grid">
+    <div>
+      <div class="card"><h2>🏆 Top Content by Score</h2>
+        <table><tr><th>Title</th><th>Source</th><th>Score</th><th>Trending</th></tr><tr><td>This life is what you make it. No matter what, you're going ...</td><td><span class="badge">quotes</span></td><td>84.0</td><td>4.11</td></tr><tr><td>The opposite of love is not hate, it's indifference. The opp...</td><td><span class="badge">quotes</span></td><td>73.6</td><td>3.29</td></tr><tr><td>I love you without knowing how, or when, or from where. I lo...</td><td><span class="badge">quotes</span></td><td>72.0</td><td>5.2</td></tr><tr><td>You may not be her first, her last, or her only. She loved b...</td><td><span class="badge">quotes</span></td><td>68.0</td><td>4.14</td></tr><tr><td>There are only two ways to live your life. One is as though ...</td><td><span class="badge">quotes</span></td><td>64.8</td><td>4.1</td></tr><tr><td>The world as we have created it is a process of our thinking...</td><td><span class="badge">quotes</span></td><td>56.8</td><td>2.12</td></tr><tr><td>It is not a lack of love, but a lack of friendship that make...</td><td><span class="badge">quotes</span></td><td>56.8</td><td>3.29</td></tr><tr><td>#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your ...</td><td><span class="badge">books</span></td><td>56.8</td><td>5.4</td></tr><tr><td>The person, be it gentleman or lady, who has not pleasure in...</td><td><span class="badge">quotes</span></td><td>55.2</td><td>1.67</td></tr><tr><td>A reader lives a thousand lives before he dies, said Jojen. ...</td><td><span class="badge">quotes</span></td><td>55.2</td><td>2.33</td></tr></table>
+      </div>
+    </div>
+    <div>
+      <div class="card"><h2>📦 Source Breakdown</h2>
+        <table><tr><th>Source</th><th>Count</th><th>Avg Score</th></tr><tr><td>books_toscrape</td><td>60</td><td>37.2</td></tr><tr><td>quotes_toscrape</td><td>50</td><td>48.8</td></tr></table>
+      </div>
+      <div class="card"><h2>🔥 Trending Words</h2>
+        <table><tr><th>Word</th><th>Freq</th><th>Trend</th></tr><tr><td><b>love</b></td><td>15</td><td><div style="background:#2563eb;height:10px;width:150px;border-radius:2px"></div></td></tr><tr><td><b>your</b></td><td>12</td><td><div style="background:#2563eb;height:10px;width:120px;border-radius:2px"></div></td></tr><tr><td><b>what</b></td><td>9</td><td><div style="background:#2563eb;height:10px;width:90px;border-radius:2px"></div></td></tr><tr><td><b>life</b></td><td>9</td><td><div style="background:#2563eb;height:10px;width:90px;border-radius:2px"></div></td></tr><tr><td><b>more</b></td><td>7</td><td><div style="background:#2563eb;height:10px;width:70px;border-radius:2px"></div></td></tr><tr><td><b>without</b></td><td>6</td><td><div style="background:#2563eb;height:10px;width:60px;border-radius:2px"></div></td></tr><tr><td><b>world</b></td><td>5</td><td><div style="background:#2563eb;height:10px;width:50px;border-radius:2px"></div></td></tr><tr><td><b>than</b></td><td>5</td><td><div style="background:#2563eb;height:10px;width:50px;border-radius:2px"></div></td></tr><tr><td><b>only</b></td><td>5</td><td><div style="background:#2563eb;height:10px;width:50px;border-radius:2px"></div></td></tr><tr><td><b>never</b></td><td>5</td><td><div style="background:#2563eb;height:10px;width:50px;border-radius:2px"></div></td></tr></table>
+      </div>
+    </div>
+  </div>
+  <p class="footer">News Aggregator ETL — Project D</p>
+</div></body></html>

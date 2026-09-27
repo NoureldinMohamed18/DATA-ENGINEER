@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Retail Analytics Platform</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Arial,sans-serif;background:#f1f5f9;color:#1e293b}
+  .header{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:white;padding:28px;text-align:center}
+  .header h1{font-size:26px;margin-bottom:6px}
+  .header p{opacity:.8;font-size:13px}
+  .wrap{max-width:1200px;margin:24px auto;padding:0 20px}
+  .kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-bottom:24px}
+  .kpi{background:white;border-radius:10px;padding:18px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,.07)}
+  .kpi-v{font-size:22px;font-weight:bold;color:#2563eb}
+  .kpi-l{color:#64748b;font-size:12px;margin-top:4px}
+  .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:16px}
+  .grid2{display:grid;grid-template-columns:2fr 1fr;gap:16px;margin-bottom:16px}
+  .card{background:white;border-radius:10px;padding:20px;box-shadow:0 2px 6px rgba(0,0,0,.07)}
+  h2{color:#1e293b;font-size:14px;margin-bottom:14px;padding-bottom:8px;border-bottom:2px solid #e2e8f0}
+  table{width:100%;border-collapse:collapse}
+  th{background:#2563eb;color:white;padding:9px;text-align:left;font-size:12px}
+  td{padding:9px;border-bottom:1px solid #f1f5f9;font-size:12px}
+  tr:hover{background:#f8fafc}
+  .chart{display:flex;align-items:flex-end;gap:8px;height:140px;padding:10px 0}
+  .bar-wrap{display:flex;flex-direction:column;align-items:center;flex:1}
+  .bar{background:linear-gradient(to top,#1e3a8a,#2563eb);border-radius:3px 3px 0 0;width:100%;min-height:4px;transition:.3s}
+  .bar-label{font-size:10px;color:#64748b;margin-top:4px}
+  .footer{text-align:center;color:#94a3b8;font-size:12px;padding:20px}
+  .badge{background:#dbeafe;color:#1e40af;padding:2px 8px;border-radius:10px;font-size:11px}
+</style></head><body>
+<div class="header">
+  <h1>🛍️ Retail Analytics Platform</h1>
+  <p>End-to-End Data Pipeline · Generated 2026-09-27 21:11</p>
+</div>
+<div class="wrap">
+  <div class="kpis">
+    <div class="kpi"><div class="kpi-v">$8,334,997</div><div class="kpi-l">Total Revenue</div></div>
+    <div class="kpi"><div class="kpi-v">$8,146,716</div><div class="kpi-l">Net Revenue</div></div>
+    <div class="kpi"><div class="kpi-v">485</div><div class="kpi-l">Total Orders</div></div>
+    <div class="kpi"><div class="kpi-v">$17,186</div><div class="kpi-l">Avg Order Value</div></div>
+    <div class="kpi"><div class="kpi-v">4.3%</div><div class="kpi-l">Return Rate</div></div>
+  </div>
+
+  <div class="card" style="margin-bottom:16px">
+    <h2>📅 Monthly Revenue Trend</h2>
+    <div class="chart"><div class="bar-wrap"><div class="bar" style="height:60px" title="$813,953"></div><div class="bar-label">Jan</div></div><div class="bar-wrap"><div class="bar" style="height:29px" title="$395,247"></div><div class="bar-label">Feb</div></div><div class="bar-wrap"><div class="bar" style="height:30px" title="$410,720"></div><div class="bar-label">Mar</div></div><div class="bar-wrap"><div class="bar" style="height:38px" title="$515,490"></div><div class="bar-label">Apr</div></div><div class="bar-wrap"><div class="bar" style="height:120px" title="$1,612,457"></div><div class="bar-label">May</div></div><div class="bar-wrap"><div class="bar" style="height:22px" title="$299,409"></div><div class="bar-label">Jun</div></div><div class="bar-wrap"><div class="bar" style="height:34px" title="$462,187"></div><div class="bar-label">Jul</div></div><div class="bar-wrap"><div class="bar" style="height:42px" title="$566,516"></div><div class="bar-label">Aug</div></div><div class="bar-wrap"><div class="bar" style="height:55px" title="$747,107"></div><div class="bar-label">Sep</div></div><div class="bar-wrap"><div class="bar" style="height:48px" title="$655,854"></div><div class="bar-label">Oct</div></div><div class="bar-wrap"><div class="bar" style="height:36px" title="$494,948"></div><div class="bar-label">Nov</div></div><div class="bar-wrap"><div class="bar" style="height:101px" title="$1,361,108"></div><div class="bar-label">Dec</div></div></div>
+  </div>
+
+  <div class="grid3">
+    <div class="card"><h2>🗂️ Revenue by Category</h2>
+      <table><tr><th>Category</th><th>Revenue</th></tr><tr><td>Books</td><td>$1,523,351</td></tr><tr><td>Sports</td><td>$1,374,656</td></tr><tr><td>Beauty</td><td>$1,324,800</td></tr><tr><td>Electronics</td><td>$1,217,792</td></tr><tr><td>Home</td><td>$1,106,303</td></tr></table></div>
+    <div class="card"><h2>📱 Revenue by Channel</h2>
+      <table><tr><th>Channel</th><th>Revenue</th></tr><tr><td>app</td><td>$2,367,637</td></tr><tr><td>online</td><td>$2,856,649</td></tr><tr><td>phone</td><td>$1,257,158</td></tr><tr><td>store</td><td>$1,853,554</td></tr></table></div>
+    <div class="card"><h2>🏆 Top Salespersons</h2>
+      <table><tr><th>Name</th><th>Revenue</th></tr><tr><td>Sara</td><td>$2,016,085</td></tr><tr><td>Ahmed</td><td>$1,577,570</td></tr><tr><td>Fatma</td><td>$1,474,299</td></tr><tr><td>Omar</td><td>$1,229,386</td></tr><tr><td>Rana</td><td>$1,128,643</td></tr></table></div>
+  </div>
+
+  <div class="grid2">
+    <div class="card"><h2>🏙️ Revenue by City</h2>
+      <table><tr><th>City</th><th>Revenue</th></tr><tr><td>Dubai</td><td>$1,876,598</td></tr><tr><td>Riyadh</td><td>$1,698,372</td></tr><tr><td>Cairo</td><td>$1,418,793</td></tr><tr><td>Alexandria</td><td>$1,329,822</td></tr><tr><td>Amman</td><td>$1,116,773</td></tr></table></div>
+    <div class="card"><h2>💎 Order Segments</h2>
+      <table><tr><th>Segment</th><th>Orders</th></tr><tr><td>Premium</td><td>242</td></tr><tr><td>High</td><td>181</td></tr><tr><td>Medium</td><td>52</td></tr><tr><td>Low</td><td>10</td></tr></table></div>
+  </div>
+</div>
+<div class="footer">Retail Analytics Platform — Project E (Advanced Capstone)</div>
+</body></html>

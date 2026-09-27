@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Job Market Analysis</title>
+<style>
+  body{font-family:Arial,sans-serif;background:#f8fafc;margin:0;padding:20px}
+  .wrap{max-width:1000px;margin:auto}
+  h1{color:#1e3a8a;text-align:center;margin-bottom:4px}
+  .sub{text-align:center;color:#64748b;margin-bottom:24px}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:24px}
+  .kpi{background:white;border-radius:10px;padding:18px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,.08)}
+  .kpi-v{font-size:24px;font-weight:bold;color:#2563eb}
+  .kpi-l{color:#64748b;font-size:12px;margin-top:4px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .card{background:white;border-radius:10px;padding:20px;box-shadow:0 2px 6px rgba(0,0,0,.08)}
+  h2{color:#1e293b;border-bottom:2px solid #e2e8f0;padding-bottom:8px;margin-top:0}
+  table{width:100%;border-collapse:collapse}
+  th{background:#1e3a8a;color:white;padding:9px;text-align:left;font-size:13px}
+  td{padding:9px;border-bottom:1px solid #f1f5f9;font-size:13px}
+  tr:hover{background:#f0f7ff}
+  .footer{text-align:center;color:#94a3b8;font-size:12px;margin-top:20px}
+</style></head><body>
+<div class="wrap">
+  <h1>📊 Job Market Analysis Dashboard</h1>
+  <p class="sub">Scraped 2026-09-27 18:28 | 50 jobs analyzed</p>
+  
+  <div class="kpis">
+    <div class="kpi"><div class="kpi-v">50</div><div class="kpi-l">Total Jobs</div></div>
+    <div class="kpi"><div class="kpi-v">28</div><div class="kpi-l">Companies</div></div>
+    <div class="kpi"><div class="kpi-v">79</div><div class="kpi-l">Unique Skills</div></div>
+    <div class="kpi"><div class="kpi-v">2.4</div><div class="kpi-l">Avg Skills/Job</div></div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>🔥 Top 10 In-Demand Skills</h2>
+      <table><tr><th>#</th><th>Skill</th><th>Count</th><th>Demand</th></tr><tr><td>1</td><td><b>inspirational</b></td><td>9</td><td><div style="background:#2563eb;height:12px;width:200px;border-radius:3px"></div></td></tr><tr><td>2</td><td><b>love</b></td><td>9</td><td><div style="background:#2563eb;height:12px;width:200px;border-radius:3px"></div></td></tr><tr><td>3</td><td><b>life</b></td><td>8</td><td><div style="background:#2563eb;height:12px;width:177px;border-radius:3px"></div></td></tr><tr><td>4</td><td><b>humor</b></td><td>5</td><td><div style="background:#2563eb;height:12px;width:111px;border-radius:3px"></div></td></tr><tr><td>5</td><td><b>books</b></td><td>4</td><td><div style="background:#2563eb;height:12px;width:88px;border-radius:3px"></div></td></tr><tr><td>6</td><td><b>reading</b></td><td>4</td><td><div style="background:#2563eb;height:12px;width:88px;border-radius:3px"></div></td></tr><tr><td>7</td><td><b>friends</b></td><td>3</td><td><div style="background:#2563eb;height:12px;width:66px;border-radius:3px"></div></td></tr><tr><td>8</td><td><b>friendship</b></td><td>3</td><td><div style="background:#2563eb;height:12px;width:66px;border-radius:3px"></div></td></tr><tr><td>9</td><td><b>paraphrased</b></td><td>2</td><td><div style="background:#2563eb;height:12px;width:44px;border-radius:3px"></div></td></tr><tr><td>10</td><td><b>simile</b></td><td>2</td><td><div style="background:#2563eb;height:12px;width:44px;border-radius:3px"></div></td></tr></table>
+    </div>
+    <div class="card">
+      <h2>📈 Jobs by Seniority</h2>
+      <table><tr><th>Level</th><th>Count</th></tr><tr><td>Mid</td><td>21</td></tr><tr><td>Entry</td><td>17</td></tr><tr><td>Senior</td><td>9</td></tr><tr><td>Expert</td><td>3</td></tr></table>
+      <br>
+      <h2>🏢 Top Hiring Companies</h2>
+      <table><tr><th>Company</th><th>Jobs</th></tr><tr><td>Albert Einstein</td><td>8</td></tr><tr><td>J.K. Rowling</td><td>6</td></tr><tr><td>Marilyn Monroe</td><td>6</td></tr><tr><td>Bob Marley</td><td>3</td></tr><tr><td>Dr. Seuss</td><td>3</td></tr></table>
+    </div>
+  </div>
+  <p class="footer">Job Market ETL Pipeline — Project B</p>
+</div></body></html>

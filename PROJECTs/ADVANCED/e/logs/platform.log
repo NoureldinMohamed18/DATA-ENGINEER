@@ -1,0 +1,73 @@
+2026-09-27 21:10:04,429 | INFO | =================================================================
+2026-09-27 21:10:04,430 | INFO | 🚀 Project E: Retail Analytics Platform (Advanced Capstone)
+2026-09-27 21:10:04,430 | INFO | =================================================================
+2026-09-27 21:10:04,431 | INFO | Extract [1/4]: Sales CSV...
+2026-09-27 21:10:44,058 | INFO | =================================================================
+2026-09-27 21:10:44,059 | INFO | 🚀 Project E: Retail Analytics Platform (Advanced Capstone)
+2026-09-27 21:10:44,059 | INFO | =================================================================
+2026-09-27 21:10:44,060 | INFO | Extract [1/4]: Sales CSV...
+2026-09-27 21:10:44,095 | INFO |   Generated 600 rows → retail_sales.csv
+2026-09-27 21:10:44,119 | INFO |   ✅ 600 rows
+2026-09-27 21:10:44,120 | INFO | Extract [2/4]: Exchange rates API...
+2026-09-27 21:10:46,174 | INFO |   ✅ {len(rates)-1} currencies
+2026-09-27 21:10:46,179 | INFO | Extract [3/4]: Country API...
+2026-09-27 21:10:48,275 | WARNING |   ⚠️  Using fallback countries
+2026-09-27 21:10:48,280 | INFO | Extract [4/4]: Product scraping...
+2026-09-27 21:10:48,281 | WARNING |   Page 1: 'scrpae_url'
+2026-09-27 21:10:48,281 | WARNING |   Page 2: 'scrpae_url'
+2026-09-27 21:10:48,281 | INFO |   ✅ 0 products scraped
+2026-09-27 21:10:48,310 | INFO |   ⚠️  115 rows rejected
+2026-09-27 21:10:48,311 | INFO |   ✅ 485 rows after validation
+2026-09-27 21:10:48,323 | INFO |   ✅ Data enriched
+2026-09-27 21:11:23,728 | INFO | =================================================================
+2026-09-27 21:11:23,728 | INFO | 🚀 Project E: Retail Analytics Platform (Advanced Capstone)
+2026-09-27 21:11:23,728 | INFO | =================================================================
+2026-09-27 21:11:23,729 | INFO | Extract [1/4]: Sales CSV...
+2026-09-27 21:11:23,735 | INFO |   ✅ 600 rows
+2026-09-27 21:11:23,736 | INFO | Extract [2/4]: Exchange rates API...
+2026-09-27 21:11:25,384 | INFO |   ✅ {len(rates)-1} currencies
+2026-09-27 21:11:25,388 | INFO | Extract [3/4]: Country API...
+2026-09-27 21:11:26,815 | WARNING |   ⚠️  Using fallback countries
+2026-09-27 21:11:26,819 | INFO | Extract [4/4]: Product scraping...
+2026-09-27 21:11:26,819 | WARNING |   Page 1: 'scrpae_url'
+2026-09-27 21:11:26,820 | WARNING |   Page 2: 'scrpae_url'
+2026-09-27 21:11:26,820 | INFO |   ✅ 0 products scraped
+2026-09-27 21:11:26,844 | INFO |   ⚠️  115 rows rejected
+2026-09-27 21:11:26,845 | INFO |   ✅ 485 rows after validation
+2026-09-27 21:11:26,856 | INFO |   ✅ Data enriched
+2026-09-27 21:11:49,996 | INFO | =================================================================
+2026-09-27 21:11:49,996 | INFO | 🚀 Project E: Retail Analytics Platform (Advanced Capstone)
+2026-09-27 21:11:49,997 | INFO | =================================================================
+2026-09-27 21:11:49,997 | INFO | Extract [1/4]: Sales CSV...
+2026-09-27 21:11:50,004 | INFO |   ✅ 600 rows
+2026-09-27 21:11:50,005 | INFO | Extract [2/4]: Exchange rates API...
+2026-09-27 21:11:51,520 | INFO |   ✅ {len(rates)-1} currencies
+2026-09-27 21:11:51,524 | INFO | Extract [3/4]: Country API...
+2026-09-27 21:11:52,959 | WARNING |   ⚠️  Using fallback countries
+2026-09-27 21:11:52,964 | INFO | Extract [4/4]: Product scraping...
+2026-09-27 21:11:52,965 | WARNING |   Page 1: 'scrpae_url'
+2026-09-27 21:11:52,965 | WARNING |   Page 2: 'scrpae_url'
+2026-09-27 21:11:52,965 | INFO |   ✅ 0 products scraped
+2026-09-27 21:11:52,991 | INFO |   ⚠️  115 rows rejected
+2026-09-27 21:11:52,991 | INFO |   ✅ 485 rows after validation
+2026-09-27 21:11:53,002 | INFO |   ✅ Data enriched
+2026-09-27 21:11:53,002 | INFO | Load [SQLite]: building Star Schema...
+2026-09-27 21:11:53,128 | INFO |   ✅ fact_sales: 485 rows
+2026-09-27 21:11:53,129 | INFO |   ✅ dim_products: 35 rows
+2026-09-27 21:11:53,130 | INFO |   ✅ dim_salespersons: 6 rows
+2026-09-27 21:11:53,131 | INFO |   ✅ dim_cities: 6 rows
+2026-09-27 21:11:53,132 | INFO |   ✅ dim_time: 259 rows
+2026-09-27 21:11:53,134 | INFO |   ✅ dim_channels: 4 rows
+2026-09-27 21:11:55,146 | INFO |   ⚠️  MongoDB not available
+2026-09-27 21:11:55,165 | INFO | Output: generating HTML dashboard...
+2026-09-27 21:11:55,167 | INFO |   ✅ Dashboard → output/retail_dashboard.html
+2026-09-27 21:11:55,167 | INFO | Output: generating Excel report...
+2026-09-27 21:11:55,348 | INFO |   ✅ Excel → output/retail_report.xlsx
+2026-09-27 21:11:55,348 | INFO | 
+=================================================================
+2026-09-27 21:11:55,349 | INFO | ✅ Platform complete in 5s
+2026-09-27 21:11:55,349 | INFO |    Dashboard → output/retail_dashboard.html
+2026-09-27 21:11:55,349 | INFO |    Excel     → output/retail_report.xlsx
+2026-09-27 21:11:55,349 | INFO |    Database  → data/retail_platform.db
+2026-09-27 21:11:55,350 | INFO |    Logs      → logs/platform.log
+2026-09-27 21:11:55,350 | INFO | =================================================================
